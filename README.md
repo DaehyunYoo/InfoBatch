@@ -46,21 +46,23 @@ python examples/cifar100_train.py --model r50 --optimizer lars --max-lr 5.2 --de
 
 ### Cifar 10 
 
-| Model | Infobatch | Accuracy | Time(H) |
-|-------|-----------|----------|------|
-| ResNet18 | X | 95.35% | 2.93H
-| ResNet18 | O | 95.49% | 1.88H
-| ResNet50 | X | 95.53% | 6.65H
-| ResNet50 | O | 95.57% | 4.25H
+|   Model   | Infobatch | Accuracy | Time(H) |
+|:---------:|:---------:|:--------:|:-------:|
+| ResNet18  |     X     |  95.35%  |  2.93H  |
+| ResNet18  |     O     |  95.49%  |  1.88H  |
+| ResNet50  |     X     |  95.53%  |  6.65H  |
+| ResNet50  |     O     |  95.57%  |  4.25H  |
+
 
 ### Cifar 100
 
-| Model | Infobatch | Accuracy | Time(H) |
-|-------|-----------|----------|------|
-| ResNet18 | X | 79.92% | 2.93 H
-| ResNet18 | O | 79.55% | 2.03 H
-| ResNet50 | X | 81.39% | 6.67 H
-| ResNet50 | O | 80.55% | 4.60 H
+|   Model   | Infobatch | Accuracy | Time(H) |
+|:---------:|:---------:|:--------:|:-------:|
+| ResNet18  |     X     |  79.92%  |  2.93 H |
+| ResNet18  |     O     |  79.55%  |  2.03 H |
+| ResNet50  |     X     |  81.39%  |  6.67 H |
+| ResNet50  |     O     |  80.55%  |  4.60 H |
+
 
 ## Reference
 
