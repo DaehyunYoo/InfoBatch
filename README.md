@@ -1,6 +1,11 @@
 # InfoBatch
 
-Not official Code
+Not official implementation of InfoBatch. This repository is for study and research purpose.
+
+## Introduction
+
+[Paper](https://arxiv.org/abs/2303.04947)
+[Paper Review with Korean](Paper_review.md)
 
 ## To do
 
